@@ -30,7 +30,7 @@ Instructions:
 | 2       | 2       | 4       | 2024-01-12 | Travel        | 15                | 2024-01-20    |
 | ...     | ...     | ...     | ...         | ...           | ...               | ...           |
 
-### Geohraphical Data
+### Geographical Data
 | LocationID | City           | Region      | AvgAge | AvgIncome | ActiveUsers |
 |------------|----------------|-------------|--------|-----------|-------------|
 | 1          | New York       | Northeast   | 27     | 75000     | 1200        |
