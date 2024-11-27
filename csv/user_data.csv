@@ -1,0 +1,101 @@
+UserID,Name,Age,Gender,Location,Interests,PremiumUser,SwipesLeft,SwipesRight
+1,User_1,59,Other,New York,"Gaming, Sports",No,97,81
+2,User_2,33,Male,Chicago,"Music, Art",No,162,149
+3,User_3,43,Female,Chicago,"Cooking, Travel",No,91,145
+4,User_4,58,Female,Los Angeles,"Music, Art",Yes,156,104
+5,User_5,19,Other,New York,"Reading, Yoga",No,154,58
+6,User_6,58,Female,Los Angeles,"Movies, Hiking",Yes,166,37
+7,User_7,47,Male,Chicago,"Reading, Yoga",Yes,114,82
+8,User_8,39,Other,Los Angeles,"Reading, Yoga",Yes,104,52
+9,User_9,38,Male,Miami,"Gaming, Sports",No,101,65
+10,User_10,56,Male,Chicago,"Music, Art",No,151,70
+11,User_11,21,Male,Houston,"Cooking, Travel",No,140,36
+12,User_12,39,Male,Miami,"Cooking, Travel",No,195,136
+13,User_13,34,Other,Los Angeles,"Reading, Yoga",Yes,77,144
+14,User_14,30,Other,Chicago,"Music, Art",No,82,130
+15,User_15,31,Female,Los Angeles,"Gaming, Sports",No,146,125
+16,User_16,59,Other,Houston,"Movies, Hiking",Yes,165,106
+17,User_17,29,Female,Los Angeles,"Gaming, Sports",Yes,77,33
+18,User_18,47,Female,Houston,"Movies, Hiking",No,139,67
+19,User_19,57,Male,Houston,"Cooking, Travel",No,122,126
+20,User_20,21,Female,Miami,"Music, Art",No,76,141
+21,User_21,33,Other,New York,"Cooking, Travel",Yes,69,81
+22,User_22,31,Female,Houston,"Gaming, Sports",No,65,40
+23,User_23,58,Other,Houston,"Movies, Hiking",Yes,65,75
+24,User_24,31,Male,Los Angeles,"Movies, Hiking",No,63,59
+25,User_25,35,Female,Chicago,"Music, Art",No,78,76
+26,User_26,28,Male,Chicago,"Movies, Hiking",Yes,98,135
+27,User_27,27,Male,New York,"Movies, Hiking",Yes,107,80
+28,User_28,35,Male,Chicago,"Cooking, Travel",Yes,187,147
+29,User_29,18,Male,Miami,"Movies, Hiking",No,86,77
+30,User_30,43,Other,Houston,"Reading, Yoga",Yes,115,106
+31,User_31,52,Female,Chicago,"Movies, Hiking",Yes,60,38
+32,User_32,21,Other,New York,"Reading, Yoga",No,134,56
+33,User_33,39,Female,Houston,"Music, Art",No,182,149
+34,User_34,51,Other,Miami,"Cooking, Travel",Yes,194,43
+35,User_35,42,Other,Los Angeles,"Reading, Yoga",Yes,112,54
+36,User_36,59,Other,Chicago,"Reading, Yoga",Yes,57,91
+37,User_37,52,Other,New York,"Gaming, Sports",No,170,97
+38,User_38,49,Female,New York,"Cooking, Travel",Yes,185,48
+39,User_39,57,Female,Miami,"Cooking, Travel",No,140,148
+40,User_40,51,Other,Houston,"Reading, Yoga",Yes,67,128
+41,User_41,42,Male,New York,"Reading, Yoga",No,145,69
+42,User_42,29,Other,New York,"Movies, Hiking",Yes,64,35
+43,User_43,54,Other,Chicago,"Gaming, Sports",No,83,128
+44,User_44,20,Male,Los Angeles,"Cooking, Travel",Yes,129,111
+45,User_45,53,Other,Houston,"Reading, Yoga",No,115,97
+46,User_46,54,Other,Miami,"Reading, Yoga",No,94,81
+47,User_47,45,Male,Miami,"Music, Art",No,190,143
+48,User_48,40,Other,Miami,"Gaming, Sports",No,193,46
+49,User_49,32,Female,New York,"Gaming, Sports",Yes,77,73
+50,User_50,55,Other,Miami,"Cooking, Travel",No,85,52
+51,User_51,30,Other,Chicago,"Movies, Hiking",Yes,158,59
+52,User_52,56,Other,Houston,"Movies, Hiking",Yes,198,86
+53,User_53,46,Male,Los Angeles,"Cooking, Travel",Yes,140,100
+54,User_54,22,Other,Los Angeles,"Gaming, Sports",Yes,58,45
+55,User_55,19,Other,Houston,"Gaming, Sports",No,169,46
+56,User_56,56,Other,Houston,"Cooking, Travel",Yes,77,81
+57,User_57,23,Female,Houston,"Music, Art",No,96,42
+58,User_58,42,Female,Los Angeles,"Movies, Hiking",Yes,181,56
+59,User_59,31,Other,Los Angeles,"Reading, Yoga",Yes,138,69
+60,User_60,19,Male,New York,"Cooking, Travel",No,136,42
+61,User_61,29,Other,New York,"Reading, Yoga",No,115,121
+62,User_62,29,Female,Houston,"Gaming, Sports",Yes,75,53
+63,User_63,20,Female,New York,"Gaming, Sports",No,183,56
+64,User_64,58,Other,Houston,"Movies, Hiking",Yes,75,87
+65,User_65,47,Male,Los Angeles,"Reading, Yoga",Yes,145,72
+66,User_66,32,Male,Chicago,"Music, Art",No,182,34
+67,User_67,50,Female,Houston,"Cooking, Travel",No,123,137
+68,User_68,50,Female,Houston,"Gaming, Sports",No,87,92
+69,User_69,23,Other,New York,"Gaming, Sports",No,181,89
+70,User_70,36,Male,Miami,"Movies, Hiking",No,100,112
+71,User_71,51,Male,Chicago,"Music, Art",Yes,195,71
+72,User_72,57,Other,New York,"Gaming, Sports",Yes,108,44
+73,User_73,44,Other,Chicago,"Movies, Hiking",Yes,86,39
+74,User_74,29,Other,New York,"Movies, Hiking",Yes,70,89
+75,User_75,35,Female,Houston,"Reading, Yoga",No,99,148
+76,User_76,59,Other,Chicago,"Music, Art",No,70,31
+77,User_77,28,Female,New York,"Reading, Yoga",Yes,115,104
+78,User_78,41,Female,New York,"Reading, Yoga",No,164,121
+79,User_79,59,Female,Miami,"Movies, Hiking",No,164,98
+80,User_80,56,Male,Los Angeles,"Gaming, Sports",No,66,53
+81,User_81,38,Other,Houston,"Music, Art",Yes,119,85
+82,User_82,52,Female,Miami,"Reading, Yoga",No,78,126
+83,User_83,42,Other,New York,"Reading, Yoga",No,52,137
+84,User_84,51,Female,New York,"Cooking, Travel",No,139,35
+85,User_85,42,Female,New York,"Movies, Hiking",Yes,161,51
+86,User_86,29,Other,Los Angeles,"Movies, Hiking",No,163,31
+87,User_87,23,Other,Miami,"Cooking, Travel",No,85,60
+88,User_88,46,Male,Houston,"Cooking, Travel",Yes,93,36
+89,User_89,58,Male,Los Angeles,"Cooking, Travel",No,138,145
+90,User_90,47,Other,Miami,"Movies, Hiking",No,180,54
+91,User_91,28,Other,Miami,"Cooking, Travel",No,139,58
+92,User_92,49,Male,Houston,"Reading, Yoga",Yes,172,75
+93,User_93,30,Other,Los Angeles,"Movies, Hiking",Yes,190,97
+94,User_94,45,Other,Los Angeles,"Gaming, Sports",Yes,127,85
+95,User_95,22,Male,Houston,"Cooking, Travel",No,185,148
+96,User_96,53,Male,Houston,"Reading, Yoga",Yes,145,77
+97,User_97,41,Other,Chicago,"Reading, Yoga",No,67,132
+98,User_98,25,Other,Chicago,"Reading, Yoga",No,194,138
+99,User_99,23,Other,Miami,"Gaming, Sports",Yes,166,44
+100,User_100,46,Female,Miami,"Reading, Yoga",No,78,124

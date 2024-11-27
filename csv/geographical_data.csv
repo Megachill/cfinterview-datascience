@@ -1,0 +1,6 @@
+LocationID,City,Region,AvgAge,AvgIncome,ActiveUsers
+1,New York,Northeast,27,75000,1344
+2,Los Angeles,West Coast,29,85000,880
+3,Chicago,Midwest,31,70000,876
+4,Houston,South,28,65000,1218
+5,Miami,Southeast,26,60000,1454
